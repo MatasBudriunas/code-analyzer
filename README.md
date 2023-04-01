@@ -17,4 +17,4 @@ Python 3+ : https://www.python.org/downloads/ <br/>
 
 ## Important note
 
-The models can be adjusted and changed as per your needs. To find a pre-model that suits you best check out hugging face model library: https://huggingface.co/models . Alternativelly You can fine-tune a pre-trained model yourself: https://huggingface.co/docs/transformers/training
+The models can be adjusted and changed as per your needs. To find a pre-trained model that suits you best check out hugging face model library: https://huggingface.co/models . Alternativelly You can fine-tune a pre-trained model yourself: https://huggingface.co/docs/transformers/training
