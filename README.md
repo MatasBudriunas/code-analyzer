@@ -14,3 +14,7 @@ Python 3+ : https://www.python.org/downloads/ <br/>
 4. Run ```pip install torch transformers flask``` to acquire flask, troch and transformers libraries.
 5. Run ```server.py``` to run the webserver
 6. Now you can make a postman POST request to 127.0.0.1:5000/analyze_code endpoint with value assigned to 'content' parameter
+
+## Important note
+
+The models can be adjusted and changed as per your needs. To find a pre-model that suits you best check out hugging face model library: https://huggingface.co/models . Alternativelly You can fine-tune a pre-trained model yourself: https://huggingface.co/docs/transformers/training
